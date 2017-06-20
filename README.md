@@ -35,6 +35,6 @@ osTicketAPI({
     if(!err)
         console.log("Your osTicket Support Ticket ID #", osTicketId);
     else
-        console.log("Error creating support ticket!");
+        console.log("Error creating support ticket! ", err);
 });
 ```
