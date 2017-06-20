@@ -1,0 +1,16 @@
+{
+  "name": "osticket-nodejs-api-wrapper",
+  "version": "1.0.0",
+  "description": "osTicket API wrapper for nodeJS. Simple and easy to use. This package will allow your application to make an API request for creating new support tickets using the open source ticketing system osTicket (https://github.com/osTicket/osTicket).",
+  "main": "osticket-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "osticket",
+    "nodejs"
+  ],
+  "author": "jremi",
+  "license": "ISC",
+  "homepage": "https://github.com/jremi/osticket-nodejs-api-wrapper"
+}
